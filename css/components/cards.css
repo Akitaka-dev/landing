@@ -1,0 +1,7 @@
+.learn img, .products img, .apply img {
+  width:150px
+}
+
+.apply, .learn, .products {
+  border:3px solid;
+}
